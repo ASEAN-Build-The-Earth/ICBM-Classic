@@ -12,8 +12,8 @@
   "type": "minecraft:crafting_shaped",
   "key": {
     "i": {
-      "type": "forge:ore_dict",
-      "ore": "ingotSteel"
+      "item": "minecraft:iron_block",
+      "data": 0
     },
     "f": {
       "item": "icbmclassic:launcherframe",

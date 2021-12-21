@@ -16,8 +16,8 @@
       "ore": "circuitAdvanced"
     },
     "i": {
-      "type": "forge:ore_dict",
-      "ore": "ingotSteel"
+      "item": "minecraft:iron_block",
+      "data": 0
     },
     "l": {
       "item": "icbmclassic:launcherbase",

@@ -16,8 +16,8 @@
       "ore": "ingotGold"
     },
     "c": {
-      "type": "forge:ore_dict",
-      "ore": "circuitBasic"
+      "item": "minecraft:iron_block",
+      "data": 0
     },
     "p": {
       "type": "forge:ore_dict",

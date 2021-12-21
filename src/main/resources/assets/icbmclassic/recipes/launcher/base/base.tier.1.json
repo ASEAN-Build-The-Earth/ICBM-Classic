@@ -12,12 +12,12 @@
   "type": "minecraft:crafting_shaped",
   "key": {
     "c": {
-      "type": "forge:ore_dict",
-      "ore": "circuitBasic"
+      "item": "minecraft:iron_block",
+      "data": 0
     },
     "i": {
-      "type": "forge:ore_dict",
-      "ore": "ingotCopper"
+      "item": "minecraft:iron_block",
+      "data": 0
     }
   }
 }

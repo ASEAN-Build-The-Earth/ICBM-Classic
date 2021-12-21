@@ -5,23 +5,15 @@
     "count": 18
   },
   "pattern": [
-    "cwc",
-    "csc",
-    "cwc"
+    "cc",
+    "cc",
+    "cc"
   ],
   "type": "minecraft:crafting_shaped",
   "key": {
     "c": {
-      "type": "forge:ore_dict",
-      "ore": "ingotCopper"
-    },
-    "s": {
-      "type": "forge:ore_dict",
-      "ore": "stickWood"
-    },
-    "w": {
-      "type": "forge:ore_dict",
-      "ore": "plankWood"
+      "item": "minecraft:iron_block",
+      "data": 0
     }
   }
 }

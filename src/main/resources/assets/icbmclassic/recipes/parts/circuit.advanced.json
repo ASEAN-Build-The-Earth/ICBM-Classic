@@ -16,16 +16,16 @@
       "ore": "wireCopper"
     },
     "c": {
-      "type": "forge:ore_dict",
-      "ore": "ingotCopper"
+      "item": "minecraft:iron_block",
+      "data": 0
     },
     "i": {
       "item": "minecraft:redstone_torch",
       "data": 0
     },
     "b": {
-      "type": "forge:ore_dict",
-      "ore": "circuitBasic"
+      "item": "minecraft:iron_block",
+      "data": 0
     }
   }
 }

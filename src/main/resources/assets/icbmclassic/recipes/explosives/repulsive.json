@@ -11,7 +11,7 @@
   "type": "minecraft:crafting_shaped",
   "key": {
     "c": {
-      "item": "icbmclassic:explosives",
+      "item": "minecraft:tnt",
       "data": 0
     }
   }

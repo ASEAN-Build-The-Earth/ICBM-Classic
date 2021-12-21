@@ -19,8 +19,8 @@
       "data": 2
     },
     "S": {
-      "type": "forge:ore_dict",
-      "ore": "ingotSteel"
+      "item": "minecraft:iron_block",
+      "data": 0
     }
   }
 }

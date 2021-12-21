@@ -14,7 +14,7 @@
       "item": "minecraft:minecart"
     },
     "a": {
-      "item": "icbmclassic:explosives",
+      "item": "minecraft:tnt",
       "data": 0
     }
   }

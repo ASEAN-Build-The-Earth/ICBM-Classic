@@ -20,8 +20,8 @@
       "ore": "ingotIron"
     },
     "c": {
-      "type": "forge:ore_dict",
-      "ore": "circuitBasic"
+      "item": "minecraft:iron_block",
+      "data": 0
     },
     "b": {
       "item": "minecraft:compass",

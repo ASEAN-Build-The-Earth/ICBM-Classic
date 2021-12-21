@@ -24,8 +24,8 @@
       "data": 0
     },
     "b": {
-      "type": "forge:ore_dict",
-      "ore": "circuitBasic"
+      "item": "minecraft:iron_block",
+      "data": 0
     }
   }
 }
